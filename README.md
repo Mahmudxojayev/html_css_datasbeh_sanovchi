@@ -1,2 +1,2 @@
-# html_css_datasbeh_sanovchi
-HTML va CSS da Tasbeh Web application
+# html_css_javascript_tasbeh_sanovchi
+HTML va CSS JavaScript da Tasbeh Web application
