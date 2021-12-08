@@ -1,0 +1,70 @@
+.text {
+    position: absolute;
+    left: 45.5%;
+    width: 150px;
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: dotted;
+    background-color: crimson;
+}
+
+.text h1:hover {
+    color: #fff;
+    text-decoration: underline;
+    background: rgb(64, 153, 255);
+}
+
+.tasbeh {
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+    border: 1px solid chocolate;
+    position: absolute;
+    top: 13%;
+    margin-left: 43.5%;
+    border-radius: 20%;
+}
+
+.ekran {
+    position: absolute;
+    width: 65%;
+    top: 5%;
+    left: 16.5%;
+    height: 50px;
+    caret-color: white;
+    border-radius: 9%;
+    border: 1px solid floralwhite;
+    font-size: 36px;
+    text-align: center;
+    background-color: rgba(96, 0, 250, 0.133);
+    color: #fff;
+}
+
+.tugma {
+    position: absolute;
+    top: 40%;
+    left: 36.5%;
+    width: 30%;
+    height: 30%;
+    border-radius: 50%;
+    background-color: gray;
+    color: #fff;
+}
+
+.tugma:hover {
+    background: rgb(0, 17, 255);
+}
+
+.tozolash {
+    position: absolute;
+    top: 75%;
+    left: 29%;
+    width: 45%;
+    height: 15%;
+    background-color: gray;
+    color: #fff;
+}
+
+.tozolash:hover {
+    background: rgb(76, 3, 245);
+}
